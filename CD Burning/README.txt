@@ -1,0 +1,1 @@
+How to use: Put this script into the customers working folder (be it a USB/folder on H drive) and execute
